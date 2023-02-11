@@ -1,0 +1,11 @@
+
+h1{
+   width: 80vw;
+  }
+p{
+  text-align: center;
+}
+ .responsive-img {
+  max-width:100%;
+  display: block;
+}
